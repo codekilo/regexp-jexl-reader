@@ -13,5 +13,14 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codekilo/regexp-jexl-reader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codekilo/regexp-jexl-reader/issues"
+  },
+  "homepage": "https://github.com/codekilo/regexp-jexl-reader#readme"
 }

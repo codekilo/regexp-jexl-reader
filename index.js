@@ -35,9 +35,7 @@ module.exports = function (app) {
                     path: calculation.path,
                     value: value
                   }],
-                  context: app.getSelfPath('uuid'),
-                  $source: mapping.pattern,
-                  timestamp: new Date().toISOString()
+                  $source: mapping.pattern
                 }
                 app.handleMessage(PLUGIN_ID, {updates: [delta]});
               });

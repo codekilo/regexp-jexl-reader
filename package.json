@@ -1,6 +1,6 @@
 {
   "name": "@codekilo/regexp-jexl-reader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "RegExp Jexl reader",
   "main": "index.js",
   "keywords": [

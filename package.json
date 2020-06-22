@@ -1,7 +1,7 @@
 {
   "name": "@codekilo/regexp-jexl-reader",
-  "version": "1.0.1",
-  "description": "Read nmea0183/nmea0183out data, parse it using user definable regex and then apply a jexl expression and map it to a path",
+  "version": "1.0.2",
+  "description": "RegExp Jexl reader",
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin"

@@ -1,4 +1,4 @@
-const PLUGIN_ID = 'RegExp JEXL reader';
+const PLUGIN_ID = 'RegExp-JEXL-reader';
 
 const pkgData = require('./package.json')
 const jexl = require("jexl");
